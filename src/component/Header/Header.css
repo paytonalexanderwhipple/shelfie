@@ -1,0 +1,32 @@
+.header {
+    background-color: #ab2a19;
+    height: 100px;
+    padding: 25px;
+}
+.header-img {
+    display: inline;
+    height: 50px;
+    width: 50px;
+    margin-left: 20px;
+}
+.header-text {
+    color: #fff;
+    font-weight: bold;
+    font-size: 25px;
+    display: inline;
+    position: relative;
+    bottom: 17px;
+    left: 20px;
+}
+.header-button-box {
+    display: inline;
+    position: relative;
+    bottom: 20px;
+    left: 40px;
+}
+.header-button {
+    background-color: #d34735;
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+}
